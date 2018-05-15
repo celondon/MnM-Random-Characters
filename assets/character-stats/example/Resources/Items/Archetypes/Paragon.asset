@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b37bb2de92370ec4496305dfd5b225b0, type: 3}
+  m_Name: Paragon
+  m_EditorClassIdentifier: 
+  ItemName: Paragon
+  Icon: {fileID: 21300000, guid: 8d2e4184ce992044e967ee319b2629c6, type: 3}
+  ItemDescription: 'Paragons are what people first think of when they think of superheroes.
+    A Paragon is nearly perfect in every way: fast, strong, tough, often has the ability
+    to fly, and represents everything good about humanity. Paragons are often talented
+    in a wide range of areas and easily take on leadership roles.'
+  Parent: Base
+  Family: Paragon
+  NextTable: ATSubType
+  CurrentTable: Archetypes
+  Unique: 1
+  StrengthBonus: 0
+  AgilityBonus: 0
+  FightingBonus: 0
+  AwarenessBonus: 0
+  StaminaBonus: 0
+  DexterityBonus: 0
+  IntelligenceBonus: 0
+  PresenceBonus: 0
+  DodgeBonus: 0
+  ParryBonus: 0
+  FortitudeBonus: 0
+  ToughnessBonus: 0
+  WillBonus: 0
+  EquipmentType: 0
+  AccurateAttackRanks: 0
+  AgileFeintRanks: 0
+  AlloutAttackRanks: 0
+  AnimalEmpathyRanks: 0
+  ArtificerRanks: 0
+  AssessmentRanks: 0
+  AttractiveRanks: 0
+  BeginnersLuckRanks: 0
+  Benefit0Ranks: 0
+  Benefit0Description: 
+  Benefit1Ranks: 0
+  Benefit1Description: 
+  Benefit2Ranks: 0
+  Benefit2Description: 
+  Benefit3Ranks: 0
+  Benefit3Description: 
+  ChokeholdRanks: 0
+  CloseAttackRanks: 0
+  ConnectedRanks: 0
+  ContactsRanks: 0
+  DazeRanks: 0
+  DefensiveAttackRanks: 0
+  DefensiveRollRanks: 0
+  DiehardRanks: 0
+  EideticMemoryRanks: 0
+  EquipmentAdvantageRanks: 0
+  EquipmentDescription: 
+  EvasionRanks: 0
+  ExtraordinaryEffortRanks: 0
+  FascinateRanks: 0
+  FastGrabRanks: 0
+  FavoredEnvironmentRanks: 0
+  FavoredFoeRanks: 0
+  FearlessRanks: 0
+  GrabbingFinesseRanks: 0
+  GreatEnduranceRanks: 0
+  HideinPlainSightRanks: 0
+  ImprovedAimRanks: 0
+  ImprovedCriticalRanks: 0
+  ImprovedDefenseRanks: 0
+  ImprovedDisarmRanks: 0
+  ImprovedGrabRanks: 0
+  ImprovedHoldRanks: 0
+  ImprovedInitiativeRanks: 0
+  ImprovedSmashRanks: 0
+  ImprovedTripRanks: 0
+  ImprovisedToolsRanks: 0
+  ImprovisedWeaponRanks: 0
+  InspireRanks: 0
+  InstantUpRanks: 0
+  InterposeRanks: 0
+  InventorRanks: 0
+  JackofalltradesRanks: 0
+  LanguagesRanks: 0
+  LanguagesDescription: 
+  LeadershipRanks: 0
+  LuckRanks: 0
+  MinionRanks: 0
+  MovebyActionRanks: 0
+  PowerAttackRanks: 0
+  PreciseAttackRanks: 0
+  ProneFightingRanks: 0
+  QuickDrawRanks: 0
+  RangedAttackRanks: 0
+  RedirectRanks: 0
+  RitualistRanks: 0
+  SecondChanceRanks: 0
+  SeizeInitiativeRanks: 0
+  SetupRanks: 0
+  SidekickRanks: 0
+  SkillMasteryRanks: 0
+  SkillMasteryDescription: 
+  StartleRanks: 0
+  TakedownRanks: 0
+  TauntRanks: 0
+  TeamworkRanks: 0
+  ThrowingMasteryRanks: 0
+  TrackingRanks: 0
+  TranceRanks: 0
+  UltimateEffortRanks: 0
+  UltimateEffortDescription: 
+  UncannyDodgeRanks: 0
+  WeaponBindRanks: 0
+  WeaponBreakRanks: 0
+  WellinformedRanks: 0
+  AcrobaticsRanks: 0
+  AthleticsRanks: 0
+  CloseCombat0Ranks: 0
+  CloseCombat1Ranks: 0
+  CloseCombat2Ranks: 0
+  CloseCombat3Ranks: 0
+  DeceptionRanks: 0
+  Expertise0Ranks: 0
+  Expertise1Ranks: 0
+  Expertise2Ranks: 0
+  Expertise3Ranks: 0
+  InsightRanks: 0
+  IntimidationRanks: 0
+  InvestigationRanks: 0
+  PerceptionRanks: 0
+  PersuasionRanks: 0
+  RangedCombat0Ranks: 0
+  RangedCombat1Ranks: 0
+  RangedCombat2Ranks: 0
+  RangedCombat3Ranks: 0
+  SleightOfHandRanks: 0
+  StealthRanks: 0
+  TechnologyRanks: 0
+  TreatmentRanks: 0
+  VehiclesRanks: 0
