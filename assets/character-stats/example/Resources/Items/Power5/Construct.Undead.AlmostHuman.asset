@@ -1,0 +1,285 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b37bb2de92370ec4496305dfd5b225b0, type: 3}
+  m_Name: Construct.Undead.AlmostHuman
+  m_EditorClassIdentifier: 
+  ItemName: AlmostHuman
+  Icon: {fileID: 21300000, guid: 27a185752103caf4babd7490bd83dce1, type: 3}
+  ItemDescription: "Enhanced Defenses 5 (Will 5); Immunity 5 (Emotion effects) \u2022
+    10 points"
+  Parent: Power4
+  Family: Construct
+  subFamily: Undead
+  NextTable: End
+  CurrentTable: Power5
+  Unique: 1
+  StrengthBonus: 0
+  StrengthBonusDescription: 
+  AgilityBonus: 0
+  AgilityBonusDescription: 
+  FightingBonus: 0
+  FightingBonusDescription: 
+  AwarenessBonus: 0
+  AwarenessBonusDescription: 
+  StaminaBonus: 0
+  StaminaBonusDescription: 
+  DexterityBonus: 0
+  DexterityBonusDescription: 
+  IntelligenceBonus: 0
+  IntelligenceBonusDescription: 
+  PresenceBonus: 0
+  PresenceBonusDescription: 
+  DodgeBonus: 0
+  DodgeBonusDescription: 
+  ParryBonus: 0
+  ParryBonusDescription: 
+  FortitudeBonus: 0
+  FortitudeBonusDescription: 
+  ToughnessBonus: 0
+  ToughnessBonusDescription: 
+  WillBonus: 0
+  WillBonusDescription: 
+  EquipmentType: 17
+  AccurateAttackRanks: 0
+  AccurateAttackDescription: 
+  AgileFeintRanks: 0
+  AgileFeintDescription: 
+  AlloutAttackRanks: 0
+  AlloutAttackDescription: 
+  AnimalEmpathyRanks: 0
+  AnimalEmpathyDescription: 
+  ArtificerRanks: 0
+  ArtificerDescription: 
+  AssessmentRanks: 0
+  AssessmentDescription: 
+  AttractiveRanks: 0
+  AttractiveDescription: 
+  BeginnersLuckRanks: 0
+  BeginnersLuckDescription: 
+  Benefit0Ranks: 0
+  Benefit0Description: 
+  Benefit1Ranks: 0
+  Benefit1Description: 
+  Benefit2Ranks: 0
+  Benefit2Description: 
+  Benefit3Ranks: 0
+  Benefit3Description: 
+  ChokeholdRanks: 0
+  ChokeholdDescription: 
+  CloseAttackRanks: 0
+  CloseAttackDescription: 
+  ConnectedRanks: 0
+  ConnectedDescription: 
+  ContactsRanks: 0
+  ContactsDescription: 
+  DazeRanks: 0
+  DazeDescription: 
+  DefensiveAttackRanks: 0
+  DefensiveAttackDescription: 
+  DefensiveRollRanks: 0
+  DefensiveRollDescription: 
+  DiehardRanks: 0
+  DiehardDescription: 
+  EideticMemoryRanks: 0
+  EideticMemoryDescription: 
+  EquipmentAdvantageRanks: 0
+  EquipmentAdvantageDescription: 
+  EvasionRanks: 0
+  EvasionDescription: 
+  ExtraordinaryEffortRanks: 0
+  ExtraordinaryEffortDescription: 
+  FascinateRanks: 0
+  FascinateDescription: 
+  FastGrabRanks: 0
+  FastGrabDescription: 
+  FavoredEnvironmentRanks: 0
+  FavoredEnvironmentDescription: 
+  FavoredFoeRanks: 0
+  FavoredFoeDescription: 
+  FearlessRanks: 0
+  FearlessDescription: 
+  GrabbingFinesseRanks: 0
+  GrabbingFinesseDescription: 
+  GreatEnduranceRanks: 0
+  GreatEnduranceDescription: 
+  HideinPlainSightRanks: 0
+  HideinPlainSightDescription: 
+  ImprovedAimRanks: 0
+  ImprovedAimDescription: 
+  ImprovedCriticalRanks: 0
+  ImprovedCriticalDescription: 
+  ImprovedDefenseRanks: 0
+  ImprovedDefenseDescription: 
+  ImprovedDisarmRanks: 0
+  ImprovedDisarmDescription: 
+  ImprovedGrabRanks: 0
+  ImprovedGrabDescription: 
+  ImprovedHoldRanks: 0
+  ImprovedHoldDescription: 
+  ImprovedInitiativeRanks: 0
+  ImprovedInitiativeDescription: 
+  ImprovedSmashRanks: 0
+  ImprovedSmashDescription: 
+  ImprovedTripRanks: 0
+  ImprovedTripDescription: 
+  ImprovisedToolsRanks: 0
+  ImprovisedToolsDescription: 
+  ImprovisedWeaponRanks: 0
+  ImprovisedWeaponDescription: 
+  InspireRanks: 0
+  InspireDescription: 
+  InstantUpRanks: 0
+  InstantUpDescription: 
+  InterposeRanks: 0
+  InterposeDescription: 
+  InventorRanks: 0
+  InventorDescription: 
+  JackofalltradesRanks: 0
+  JackofalltradesDescription: 
+  LanguagesRanks: 0
+  LanguagesDescription: 
+  LeadershipRanks: 0
+  LeadershipDescription: 
+  LuckRanks: 0
+  LuckDescription: 
+  MinionRanks: 0
+  MinionDescription: 
+  MovebyActionRanks: 0
+  MovebyActionDescription: 
+  PowerAttackRanks: 0
+  PowerAttackDescription: 
+  PreciseAttackRanks: 0
+  PreciseAttackDescription: 
+  ProneFightingRanks: 0
+  ProneFightingDescription: 
+  QuickDrawRanks: 0
+  QuickDrawDescription: 
+  RangedAttackRanks: 0
+  RangedAttackDescription: 
+  RedirectRanks: 0
+  RedirectDescription: 
+  RitualistRanks: 0
+  RitualistDescription: 
+  SecondChanceRanks: 0
+  SecondChanceDescription: 
+  SeizeInitiativeRanks: 0
+  SeizeInitiativeDescription: 
+  SetupRanks: 0
+  SetupDescription: 
+  SidekickRanks: 0
+  SidekickDescription: 
+  SkillMastery0Ranks: 0
+  SkillMastery0Description: 
+  SkillMastery1Ranks: 0
+  SkillMastery1Description: 
+  SkillMastery2Ranks: 0
+  SkillMastery2Description: 
+  SkillMastery3Ranks: 0
+  SkillMastery3Description: 
+  StartleRanks: 0
+  StartleDescription: 
+  TakedownRanks: 0
+  TakedownDescription: 
+  TauntRanks: 0
+  TauntDescription: 
+  TeamworkRanks: 0
+  TeamworkDescription: 
+  ThrowingMasteryRanks: 0
+  ThrowingMasteryDescription: 
+  TrackingRanks: 0
+  TrackingDescription: 
+  TranceRanks: 0
+  TranceDescription: 
+  UltimateEffortRanks: 0
+  UltimateEffortDescription: 
+  UncannyDodgeRanks: 0
+  UncannyDodgeDescription: 
+  WeaponBindRanks: 0
+  WeaponBindDescription: 
+  WeaponBreakRanks: 0
+  WeaponBreakDescription: 
+  WellinformedRanks: 0
+  WellinformedDescription: 
+  AcrobaticsRanks: 0
+  AcrobaticsDescription: 
+  AthleticsRanks: 0
+  AthleticsDescription: 
+  CloseCombat0Ranks: 0
+  CloseCombat0Description: 
+  CloseCombat1Ranks: 0
+  CloseCombat1Description: 
+  CloseCombat2Ranks: 0
+  CloseCombat2Description: 
+  CloseCombat3Ranks: 0
+  CloseCombat3Description: 
+  DeceptionRanks: 0
+  DeceptionDescription: 
+  Expertise0Ranks: 0
+  Expertise0Description: 
+  Expertise1Ranks: 0
+  Expertise1Description: 
+  Expertise2Ranks: 0
+  Expertise2Description: 
+  Expertise3Ranks: 0
+  Expertise3Description: 
+  InsightRanks: 0
+  InsightDescription: 
+  IntimidationRanks: 0
+  IntimidationDescription: 
+  InvestigationRanks: 0
+  InvestigationDescription: 
+  PerceptionRanks: 0
+  PerceptionDescription: 
+  PersuasionRanks: 0
+  PersuasionDescription: 
+  RangedCombat0Ranks: 0
+  RangedCombat0Description: 
+  RangedCombat1Ranks: 0
+  RangedCombat1Description: 
+  RangedCombat2Ranks: 0
+  RangedCombat2Description: 
+  RangedCombat3Ranks: 0
+  RangedCombat3Description: 
+  SleightOfHandRanks: 0
+  SleightOfHandDescription: 
+  StealthRanks: 0
+  StealthDescription: 
+  TechnologyRanks: 0
+  TechnologyDescription: 
+  TreatmentRanks: 0
+  TreatmentDescription: 
+  VehiclesRanks: 0
+  VehiclesDescription: 
+  Power0Ranks: 0
+  Power0Description: 
+  Power1Ranks: 0
+  Power1Description: 
+  Power2Ranks: 0
+  Power2Description: 
+  Power3Ranks: 0
+  Power3Description: 
+  Power4Ranks: 0
+  Power4Description: 
+  Power5Ranks: 1
+  Power5Description: "Almost Human: Enhanced Defenses 5 (Will 5); Immunity 5 (Emotion
+    effects) \u2022 10 points"
+  Power6Ranks: 0
+  Power6Description: 
+  Power7Ranks: 0
+  Power7Description: 
+  Power8Ranks: 0
+  Power8Description: 
+  Power9Ranks: 0
+  Power9Description: 
+  Power10Ranks: 0
+  Power10Description: 
+  Power11Ranks: 0
+  Power11Description: 
