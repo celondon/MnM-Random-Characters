@@ -1,0 +1,458 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1691022085659994}
+  m_IsPrefabParent: 1
+--- !u!1 &1691022085659994
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4939571396807448}
+  - component: {fileID: 114930058216207146}
+  m_Layer: 0
+  m_Name: Character
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4939571396807448
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1691022085659994}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 167.96983, y: 155.87546, z: -4.2067065}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114930058216207146
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1691022085659994}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea5f4c16dc0ce5546b8334a4868aeb6a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Strength:
+    BaseValue: 0
+    Description: 
+  Agility:
+    BaseValue: 0
+    Description: 
+  Fighting:
+    BaseValue: 0
+    Description: 
+  Awareness:
+    BaseValue: 0
+    Description: 
+  Stamina:
+    BaseValue: 0
+    Description: 
+  Dexterity:
+    BaseValue: 0
+    Description: 
+  Intelligence:
+    BaseValue: 0
+    Description: 
+  Presence:
+    BaseValue: 0
+    Description: 
+  Dodge:
+    BaseValue: 0
+    Description: 
+  Parry:
+    BaseValue: 0
+    Description: 
+  Fortitude:
+    BaseValue: 0
+    Description: 
+  Toughness:
+    BaseValue: 0
+    Description: 
+  Will:
+    BaseValue: 0
+    Description: 
+  AccurateAttack:
+    BaseValue: 0
+    Description: 
+  AgileFeint:
+    BaseValue: 0
+    Description: 
+  AlloutAttack:
+    BaseValue: 0
+    Description: 
+  AnimalEmpathy:
+    BaseValue: 0
+    Description: 
+  Artificer:
+    BaseValue: 0
+    Description: 
+  Assessment:
+    BaseValue: 0
+    Description: 
+  Attractive:
+    BaseValue: 0
+    Description: 
+  BeginnersLuck:
+    BaseValue: 0
+    Description: 
+  Benefit0:
+    BaseValue: 0
+    Description: 
+  Benefit1:
+    BaseValue: 0
+    Description: 
+  Benefit2:
+    BaseValue: 0
+    Description: 
+  Benefit3:
+    BaseValue: 0
+    Description: 
+  Chokehold:
+    BaseValue: 0
+    Description: 
+  CloseAttack:
+    BaseValue: 0
+    Description: 
+  Connected:
+    BaseValue: 0
+    Description: 
+  Contacts:
+    BaseValue: 0
+    Description: 
+  Daze:
+    BaseValue: 0
+    Description: 
+  DefensiveAttack:
+    BaseValue: 0
+    Description: 
+  DefensiveRoll:
+    BaseValue: 0
+    Description: 
+  Diehard:
+    BaseValue: 0
+    Description: 
+  EideticMemory:
+    BaseValue: 0
+    Description: 
+  EquipmentAdvantage:
+    BaseValue: 0
+    Description: 
+  Evasion:
+    BaseValue: 0
+    Description: 
+  ExtraordinaryEffort:
+    BaseValue: 0
+    Description: 
+  Fascinate:
+    BaseValue: 0
+    Description: 
+  FastGrab:
+    BaseValue: 0
+    Description: 
+  FavoredEnvironment:
+    BaseValue: 0
+    Description: 
+  FavoredFoe:
+    BaseValue: 0
+    Description: 
+  Fearless:
+    BaseValue: 0
+    Description: 
+  GrabbingFinesse:
+    BaseValue: 0
+    Description: 
+  GreatEndurance:
+    BaseValue: 0
+    Description: 
+  HideinPlainSight:
+    BaseValue: 0
+    Description: 
+  ImprovedAim:
+    BaseValue: 0
+    Description: 
+  ImprovedCritical:
+    BaseValue: 0
+    Description: 
+  ImprovedDefense:
+    BaseValue: 0
+    Description: 
+  ImprovedDisarm:
+    BaseValue: 0
+    Description: 
+  ImprovedGrab:
+    BaseValue: 0
+    Description: 
+  ImprovedHold:
+    BaseValue: 0
+    Description: 
+  ImprovedInitiative:
+    BaseValue: 0
+    Description: 
+  ImprovedSmash:
+    BaseValue: 0
+    Description: 
+  ImprovedTrip:
+    BaseValue: 0
+    Description: 
+  ImprovisedTools:
+    BaseValue: 0
+    Description: 
+  ImprovisedWeapon:
+    BaseValue: 0
+    Description: 
+  Inspire:
+    BaseValue: 0
+    Description: 
+  InstantUp:
+    BaseValue: 0
+    Description: 
+  Interpose:
+    BaseValue: 0
+    Description: 
+  Inventor:
+    BaseValue: 0
+    Description: 
+  Jackofalltrades:
+    BaseValue: 0
+    Description: 
+  Languages:
+    BaseValue: 0
+    Description: 
+  Leadership:
+    BaseValue: 0
+    Description: 
+  Luck:
+    BaseValue: 0
+    Description: 
+  Minion:
+    BaseValue: 0
+    Description: 
+  MovebyAction:
+    BaseValue: 0
+    Description: 
+  PowerAttack:
+    BaseValue: 0
+    Description: 
+  PreciseAttack:
+    BaseValue: 0
+    Description: 
+  ProneFighting:
+    BaseValue: 0
+    Description: 
+  QuickDraw:
+    BaseValue: 0
+    Description: 
+  RangedAttack:
+    BaseValue: 0
+    Description: 
+  Redirect:
+    BaseValue: 0
+    Description: 
+  Ritualist:
+    BaseValue: 0
+    Description: 
+  SecondChance:
+    BaseValue: 0
+    Description: 
+  SeizeInitiative:
+    BaseValue: 0
+    Description: 
+  Setup:
+    BaseValue: 0
+    Description: 
+  Sidekick:
+    BaseValue: 0
+    Description: 
+  SkillMastery0:
+    BaseValue: 0
+    Description: 
+  SkillMastery1:
+    BaseValue: 0
+    Description: 
+  SkillMastery2:
+    BaseValue: 0
+    Description: 
+  SkillMastery3:
+    BaseValue: 0
+    Description: 
+  Startle:
+    BaseValue: 0
+    Description: 
+  Takedown:
+    BaseValue: 0
+    Description: 
+  Taunt:
+    BaseValue: 0
+    Description: 
+  Teamwork:
+    BaseValue: 0
+    Description: 
+  ThrowingMastery:
+    BaseValue: 0
+    Description: 
+  Tracking:
+    BaseValue: 0
+    Description: 
+  Trance:
+    BaseValue: 0
+    Description: 
+  UltimateEffort:
+    BaseValue: 0
+    Description: 
+  UncannyDodge:
+    BaseValue: 0
+    Description: 
+  WeaponBind:
+    BaseValue: 0
+    Description: 
+  WeaponBreak:
+    BaseValue: 0
+    Description: 
+  Wellinformed:
+    BaseValue: 0
+    Description: 
+  Acrobatics:
+    BaseValue: 0
+    Description: 
+  Athletics:
+    BaseValue: 0
+    Description: 
+  CloseCombat0:
+    BaseValue: 0
+    Description: 
+  CloseCombat1:
+    BaseValue: 0
+    Description: 
+  CloseCombat2:
+    BaseValue: 0
+    Description: 
+  CloseCombat3:
+    BaseValue: 0
+    Description: 
+  Deception:
+    BaseValue: 0
+    Description: 
+  Expertise0:
+    BaseValue: 0
+    Description: 
+  Expertise1:
+    BaseValue: 0
+    Description: 
+  Expertise2:
+    BaseValue: 0
+    Description: 
+  Expertise3:
+    BaseValue: 0
+    Description: 
+  Insight:
+    BaseValue: 0
+    Description: 
+  Intimidation:
+    BaseValue: 0
+    Description: 
+  Investigation:
+    BaseValue: 0
+    Description: 
+  Perception:
+    BaseValue: 0
+    Description: 
+  Persuasion:
+    BaseValue: 0
+    Description: 
+  RangedCombat0:
+    BaseValue: 0
+    Description: 
+  RangedCombat1:
+    BaseValue: 0
+    Description: 
+  RangedCombat2:
+    BaseValue: 0
+    Description: 
+  RangedCombat3:
+    BaseValue: 0
+    Description: 
+  SleightOfHand:
+    BaseValue: 0
+    Description: 
+  Stealth:
+    BaseValue: 0
+    Description: 
+  Technology:
+    BaseValue: 0
+    Description: 
+  Treatment:
+    BaseValue: 0
+    Description: 
+  Vehicles:
+    BaseValue: 0
+    Description: 
+  Power0:
+    BaseValue: 0
+    Description: 
+  Power1:
+    BaseValue: 0
+    Description: 
+  Power2:
+    BaseValue: 0
+    Description: 
+  Power3:
+    BaseValue: 0
+    Description: 
+  Power4:
+    BaseValue: 0
+    Description: 
+  Power5:
+    BaseValue: 0
+    Description: 
+  Power6:
+    BaseValue: 0
+    Description: 
+  Power7:
+    BaseValue: 0
+    Description: 
+  Power8:
+    BaseValue: 0
+    Description: 
+  Power9:
+    BaseValue: 0
+    Description: 
+  Power10:
+    BaseValue: 0
+    Description: 
+  Power11:
+    BaseValue: 0
+    Description: 
+  nextTable: 
+  currentTable: 
+  previousTable: 
+  lastItem: {fileID: 0}
+  lastItemString: 
+  familyTree: 
+  subFamily: 
+  archetype: {fileID: 0}
+  equipmentPanel: {fileID: 0}
+  statPanel: {fileID: 0}
+  advantagePanel: {fileID: 0}
+  skillPanel: {fileID: 0}
+  powerPanel: {fileID: 0}
+  itemTooltip: {fileID: 0}
+  draggableItem: {fileID: 0}
