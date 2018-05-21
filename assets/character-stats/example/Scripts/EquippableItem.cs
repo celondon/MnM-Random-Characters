@@ -567,27 +567,27 @@ public class EquippableItem : Item
 
 		if (Power0Ranks != 0)
 			c.Power0.AddModifier(new StatModifier(Power0Ranks, Power0Description, StatModType.Flat, this));
-		if (Power1Ranks != 1)
+		if (Power1Ranks != 0)
 			c.Power1.AddModifier(new StatModifier(Power1Ranks, Power1Description, StatModType.Flat, this));
-		if (Power2Ranks != 2)
+		if (Power2Ranks != 0)
 			c.Power2.AddModifier(new StatModifier(Power2Ranks, Power2Description, StatModType.Flat, this));
-		if (Power3Ranks != 3)
+		if (Power3Ranks != 0)
 			c.Power3.AddModifier(new StatModifier(Power3Ranks, Power3Description, StatModType.Flat, this));
-		if (Power4Ranks != 4)
+		if (Power4Ranks != 0)
 			c.Power4.AddModifier(new StatModifier(Power4Ranks, Power4Description, StatModType.Flat, this));
-		if (Power5Ranks != 5)
+		if (Power5Ranks != 0)
 			c.Power5.AddModifier(new StatModifier(Power5Ranks, Power5Description, StatModType.Flat, this));
-		if (Power6Ranks != 6)
+		if (Power6Ranks != 0)
 			c.Power6.AddModifier(new StatModifier(Power6Ranks, Power6Description, StatModType.Flat, this));
-		if (Power7Ranks != 7)
+		if (Power7Ranks != 0)
 			c.Power7.AddModifier(new StatModifier(Power7Ranks, Power7Description, StatModType.Flat, this));
-		if (Power8Ranks != 8)
+		if (Power8Ranks != 0)
 			c.Power8.AddModifier(new StatModifier(Power8Ranks, Power8Description, StatModType.Flat, this));
-		if (Power9Ranks != 9)
+		if (Power9Ranks != 0)
 			c.Power9.AddModifier(new StatModifier(Power9Ranks, Power9Description, StatModType.Flat, this));
-		if (Power10Ranks != 10)
+		if (Power10Ranks != 0)
 			c.Power10.AddModifier(new StatModifier(Power10Ranks, Power10Description, StatModType.Flat, this));
-		if (Power11Ranks != 10)
+		if (Power11Ranks != 0)
 			c.Power11.AddModifier(new StatModifier(Power11Ranks, Power11Description, StatModType.Flat, this));
 	}
 

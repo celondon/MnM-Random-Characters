@@ -365,7 +365,6 @@ public class Character : MonoBehaviour
 				advantagePanel.UpdateStatValues();
 				skillPanel.UpdateStatValues();
 				powerPanel.UpdateStatValues();
-				//powerPanel.UpdateStatDescriptions();
 			} 
 			else 
 			{
@@ -386,7 +385,6 @@ public class Character : MonoBehaviour
 			archetype.AddItem(item);
 			skillPanel.UpdateStatValues();
 			powerPanel.UpdateStatValues();
-			//powerPanel.UpdateStatDescriptions();
 		}
 	}
 }
