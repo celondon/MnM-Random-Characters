@@ -11,7 +11,6 @@ public class StatDisplay : MonoBehaviour, IPointerEnterHandler, IPointerExitHand
 		set {
 			_stat = value;
 			UpdateStatValue ();
-			UpdateStatDesc();
 			}
 	}
 
@@ -59,6 +58,6 @@ public class StatDisplay : MonoBehaviour, IPointerEnterHandler, IPointerExitHand
 	public void UpdateStatDesc()
 	{
 		descriptionText.text = _stat.statDescription;
-		print("Power = " + name + " Value = " + _stat.Value.ToString() + " " + _stat.statDescription);
+		//print("Power = " + name + " Value = " + _stat.Value.ToString() + " " + _stat.statDescription);
 	}
 }
