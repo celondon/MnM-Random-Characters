@@ -1,0 +1,4 @@
+sceneSetups:
+- path: assets/character-stats/example/Scenes/UI.unity
+  isLoaded: 1
+  isActive: 1
